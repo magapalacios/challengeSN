@@ -28,7 +28,7 @@ Desde esta vista, los usuarios podrán visualizar y modificar todos los datos as
 
 # Especificaciones técnicas
 
-## *Para el desarrollo del backend utilize:
+## *Para el desarrollo del backend utilice:
 Node.js con Express como framework.
 Base de datos MySQL.
 Sequelize ORM.
@@ -36,7 +36,7 @@ Hasheo de contraseñas.
 JSON Web Tokens (JWT) para autenticación y autorización.
 Almacenamiento de archivos (FTP)
 
-## *Para el desarrollo del frontend utilize:
+## *Para el desarrollo del frontend utilice:
 React
 Enrutamiento
 Tailwind CSS
