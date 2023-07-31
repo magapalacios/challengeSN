@@ -1,4 +1,4 @@
-# challengeSN
+# ChallengeSN
 # Desafío municipalidad
 
 Este es un desafío técnico para desarrollar una aplicación web con funcionalidades de registro, inicio de sesión, pantalla principal y perfil de usuario. La aplicación cuenta con dos tipos de usuarios: administradores y usuarios comunes. A continuación, se detallan las distintas secciones de la aplicación:
